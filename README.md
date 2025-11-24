@@ -21,6 +21,6 @@ Pipeline de engenharia de dados desenvolvido em **Python** para automatizar a si
    ```env
    SUPABASE_URL=sua_url_de_conexao
    LOCAL_DB_PASS=sua_senha_local
-   Instale as dependências: (`pip install python-dotenv`)
-   Execute: (`backup.py`)
+   Instale as dependências: pip install python-dotenv
+   Execute: backup.py
    ```
