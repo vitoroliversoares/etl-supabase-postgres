@@ -1,4 +1,4 @@
-#Automação de backup ETL (PostgreSQL & Supabase)
+# Automação de backup ETL (PostgreSQL & Supabase)
 
 Pipeline de engenharia de dados desenvolvido em **Python** para automatizar a sincronização segura entre banco de dados em nuvem (Supabase) e infraestrutura local (On-Premise).
 
