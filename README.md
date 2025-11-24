@@ -18,9 +18,8 @@ Pipeline de engenharia de dados desenvolvido em **Python** para automatizar a si
 ## ⚙️ Como Configurar
 1. Clone o repositório.
 2. Crie um arquivo `.env` na raiz com as variáveis:
-   ```env
+   ```ini
    SUPABASE_URL=sua_url_de_conexao
    LOCAL_DB_PASS=sua_senha_local
-   Instale as dependências: pip install python-dotenv
-   Execute: backup.py
-   ```
+3. Instale as dependências: (`pip install python-dotenv`)
+4. Execute: (`backup.py`)
