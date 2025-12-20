@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=vitoroliversoares-etl-supabase-postgres&label=Visualizações+do+Repo&color=2b213a)
+
 # Automação de backup ETL (PostgreSQL & Supabase)
 
 Pipeline de engenharia de dados desenvolvido em **Python** para automatizar a sincronização segura entre banco de dados em nuvem (Supabase) e infraestrutura local (On-Premise).
