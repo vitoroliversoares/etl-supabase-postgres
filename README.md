@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vitoroliversoares-etl-supabase-postgres&label=Visualizações+do+Projeto&color=2b213a)
+![](https://komarev.com/ghpvc/?username=vitoroliversoares-etl-supabase-postgres&label=Visualizações+do+Projeto&color=2ecc71)
 
 # Automação de backup ETL (PostgreSQL & Supabase)
 
