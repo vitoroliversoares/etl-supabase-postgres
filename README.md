@@ -2,6 +2,9 @@
 
 # Automação de backup ETL (PostgreSQL & Supabase)
 
+![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
+
 Pipeline de engenharia de dados desenvolvido em **Python** para automatizar a sincronização segura entre banco de dados em nuvem (Supabase) e infraestrutura local (On-Premise).
 
 ## 🍀 Funcionalidades:
